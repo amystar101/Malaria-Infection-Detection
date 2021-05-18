@@ -1,4 +1,4 @@
-# Malariya Infection Detection
+# Malaria Infection Detection
 
 ### Implemented convolutional neural network (CNN) using tensorflow 
 
